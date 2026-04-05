@@ -1,0 +1,5 @@
+# Archivo gitignore
+# Ignora el fichero fichero_basura.txt
+fichero_basura.txt
+# no ignorar lib.a, a pesar de la regla anterior
+!archivo_git.txt
